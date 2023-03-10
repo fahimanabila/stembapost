@@ -43,6 +43,8 @@ Front End :
 
 Back End :
 1. Node.js
+2. RDBMS (MySQL)
+3. API WhatsApp
 
 ## :link: Attachment and Documentation in Indonesian (bahasa) 
 1. [See Landing Page](https://stembapost.github.io/)
