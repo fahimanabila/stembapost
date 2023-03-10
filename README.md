@@ -1,5 +1,5 @@
 # Stembapost (Automatic Broadcasting WhatsApp Message through Website) 
-StembaPost is a web-based local application built with the CodeIgniter PHP Framework interface, Bootstrap 3, jQuery, HTML 5, and CSS-Saas. For the backend it uses the MySQL DBMS (PhpMyAdmin), and the Restful API as a connector with the WhatsApp API. 
+StembaPost is a web-based local application built with the CodeIgniter PHP Framework interface, Bootstrap 3, jQuery, HTML 5, and CSS-Saas. For the backend it uses the MySQL DBMS (PhpMyAdmin), and the Restful API with Node.js as a connector with the WhatsApp API. 
 *This repository is being shared for educational purpose only!*
 
 ## :white_check_mark: Background
